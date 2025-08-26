@@ -18,6 +18,7 @@ itsdangerous==2.2.0
 Jinja2==3.1.6
 MarkupSafe==3.0.2
 psycopg2-binary
+Pillow
 requests==2.32.5
 soupsieve==2.7
 SQLAlchemy==2.0.43
