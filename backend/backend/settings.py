@@ -85,7 +85,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'tennis_db',
         'USER': 'postgres',
-        'PASSWORD': 'lol9.lol9',
+        'PASSWORD': 'password',
         'HOST': 'localhost',
         'PORT': '5432',
     }
